@@ -11,5 +11,8 @@
     "url": "https://github.com/pori.design"
   },
   "author": "Alex Hernandez <porialex@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.10.0"
+  }
 }
