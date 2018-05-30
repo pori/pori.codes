@@ -4,7 +4,7 @@
   "description": "Personal website of Alex Hernandez.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vuepress dev site"
   },
   "repository": {
     "type": "git",
