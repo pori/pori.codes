@@ -1,0 +1,15 @@
+{
+  "name": "pori.design",
+  "version": "0.1.0",
+  "description": "Personal website of Alex Hernandez.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pori.design"
+  },
+  "author": "Alex Hernandez <porialex@gmail.com>",
+  "license": "MIT"
+}
