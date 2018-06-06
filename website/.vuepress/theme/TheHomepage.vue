@@ -11,21 +11,35 @@
         :imagePath="project.imagePath"
         :title="project.title"
         :subtitle="project.subtitle"
+        :lead="project.lead"
         :description="project.description"
-        :liveLink="project.liveLink" />
+        :liveLink="project.liveLink" 
+        :liveLinkLabel="project.liveLinkLabel"
+      />
+    </section>
+
+    <h3 class="section-heading">Elsewhere</h3>
+
+    <section class="elsewhere">
+      <div v-for="item in elsewhere">
+        <a :href="item.link" target="_blank">{{ item.label }}</a>
+      </div>
     </section>
 
     <h3 class="section-heading">Extracurriculars</h3>
 
-    <section class="two-col">
+    <section class="extracurriculars">
       <project-card 
         v-for="project in extracurriculars"
         :key="project.title"
         :imagePath="project.imagePath"
         :title="project.title"
         :subtitle="project.subtitle"
+        :lead="project.lead"
         :description="project.description"
-        :liveLink="project.liveLink" />
+        :liveLink="project.liveLink" 
+        :liveLinkLabel="project.liveLinkLabel" 
+      />
     </section>
     
     <TheFooter/>
@@ -58,6 +72,9 @@ export default {
     projects() {
       return this.options.projects;
     },
+    elsewhere() {
+      return this.options.elsewhere;
+    },
     extracurriculars() {
       return this.options.extracurriculars;
     },
@@ -69,20 +86,42 @@ export default {
 </script>
 
 <style lang="scss">
+section:first-of-type {
+  margin-top: 6em;
+}
+
 .section-heading {
   font-weight: bold;
   color: var(--primary);
 }
 
-.two-col {
+.elsewhere {
+  div {
+    margin: 1.5em 0;
+
+    a {
+      color: var(--black);
+
+      &:hover {
+        color: var(--secondary);
+      }
+    }
+  }
+}
+
+.extracurriculars {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   column-gap: 1em;
   margin-top: 0;
 
   .project {
-    img {
-      height: 200px;
+    .image-container {
+      height: 300px;
+
+      img:first-child {
+        max-height: 75%;
+      }
     }
 
     .description {

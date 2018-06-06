@@ -100,7 +100,11 @@ small {
 }
 
 section {
-  margin: 5rem 0;
+  margin-bottom: 5rem;
+
+  &:first-child {
+    margin-top: 5rem;
+  }
 }
 
 a {
