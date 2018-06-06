@@ -35,11 +35,15 @@ elsewhere:
     link: https://news.vuejs.org/issues/92
   - label: Giving a prototype talk for the one I am giving at CampJS.
     link: https://www.meetup.com/Front-End-Orlando/events/249268275/
+  - label: Photobombing (Videobombing?) Sean Larkin.
+    link: https://twitter.com/TheLarkInn/status/978777624062328832
+  - label: Commenting about religion's relationship with the LGBTQI+ community on a public radio show.
+    link: http://www.wmfe.org/intersection-the-state-of-faith/82140
   - label: Introducing Orlando to the wonderful Vue.js framework. 
     link: https://www.meetup.com/Front-End-Orlando/events/246687100/
   - label: Trying (and failing) to solve JavaScript fatigue at BrisJS.
     link: https://brisjs.org/#talk-154
-  - label: Rescuing puppies using airplanes.
+  - label: Rescuing puppies, using airplanes.
     link: https://youngpix.smugmug.com/Pets/May-2-2015/i-7fWKdqM
   - label: Talking about how to control a helicopter engine with Arduino and Android. 
     link: https://www.meetup.com/Orlando-Robotics/events/189631422/
@@ -69,6 +73,6 @@ social:
   dribbble: pori
 ---
 
-## Hola! My name is [Alex Hernandez](#). I am a [product designer](#) & [front-end developer](#) based in [~~Brisbane, Australia~~](#) [ ~~Orlando, FL~~](#) [:woman_shrugging:](#).
+## Hola! My name is [Alex Hernandez](/about.html). I am a [product designer](/design.html) & [front-end developer](/dev.html) based in [~~Brisbane, Australia~~](/brisbane.html) [ ~~Orlando, FL~~](/orlando.html) [:woman_shrugging:](/next.html).
 
 ### I love to design simple, delightful, and functional products in the digital space. Below are selected examples of my past work.

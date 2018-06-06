@@ -103,4 +103,16 @@ export default {
     }
   }
 }
+
+@media (max-width: 1024px) {
+  .project {
+    .image-container {
+      height: auto;
+    }
+
+    .description {
+      width: 100%;
+    }
+  }
+}
 </style>

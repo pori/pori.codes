@@ -8,6 +8,10 @@
     </template>
     <div v-else class="container">
       <Content/>
+
+      <div class="cute-footer">
+        <img src="/alex-hernandez.png" alt="Alex Hernandez">
+      </div>
     </div>
   </div>
 </template>
@@ -36,7 +40,7 @@ export default {
   /* Type */
   --heading-typeface: "Libre Baskerville", serif;
   --body-typeface: "Libre Franklin", sans-serif;
-  --type-scale: 1.125em;
+  --type-scale: 1.125rem;
 
   /* Globals */
   --border-radius: 3px;
@@ -120,7 +124,7 @@ a {
 
 .button {
   background: var(--primary);
-  padding: 0.5rem 1rem;
+  padding: 1rem 1.5rem;
   color: white !important;
   font-family: var(--body-typeface);
   border-radius: var(--border-radius);
@@ -137,5 +141,34 @@ a {
 .container {
   width: 1000px;
   margin: 0 auto;
+}
+
+.cute-footer {
+  text-align: center;
+
+  img {
+    z-index: -1000;
+    position: fixed;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    bottom: -100px;
+    margin: 0 auto;
+    width: 200px;
+    transition: bottom 1s;
+
+    &:hover,
+    &:active {
+      bottom: -50px;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .container {
+    width: 100%;
+    // padding-left: 1em;
+    // padding-right: 1em;
+  }
 }
 </style>
