@@ -4,7 +4,8 @@
   "description": "Personal website of Alex Hernandez.",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev website"
+    "dev": "vuepress dev website",
+    "build": "vuepress build website"
   },
   "repository": {
     "type": "git",
