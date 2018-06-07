@@ -10,9 +10,9 @@ projects:
     liveLink: https://leasecake.com
   - imagePath: /sensarie.png
     title: Sensarie
-    subtitle: Research · Consulting · Front-End
+    subtitle: Research · Front-End
     lead: Pronounced similarly to "sensory," it is a startup dedicated to helping you find the perfect neighborhood in Orlando, Florida.
-    description: The team brought me on-board to help normalize their processes and technical infrastructure. Aside from lending expertise, I built and refined their on-boarding experience.
+    description: The team brought me on-board to help normalize their development processes and technical infrastructure. Aside from lending expertise, I built and refined their on-boarding experience.
     liveLink: https://sensarie.com
   - imagePath: /the-cleaning-studio.png
     title: The Cleaning Studio
