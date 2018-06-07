@@ -26,7 +26,7 @@ projects:
     lead: Rapido was a mobile app for requesting services such as plumbing, electric, and HVAC. 
     description: As a part of <a href="https://www.starterstudio.org/programs/accelerators/">Starter Studio Accelerator 1.0</a>, I spent my time conducting user interviews, designing, building, and marketing. I had the pleasure of being featured on <a href="https://www.bizjournals.com/orlando/news/2015/07/29/plumbers-electricians-etc-may-get-more-customers.html" target="_blank">a few</a> <a href="http://www.orlandosentinel.com/business/technology/tech_check/os-rapido-launches-mobile-application-20150730-post.html" target="_blank">different</a> <a href="http://www.mynews13.com/fl/orlando/news/2015/8/3/rapido_app_orlando.html" target="_target">news outlets</a>.
     liveLink: https://youtu.be/Ll6eDHCHSCw
-    liveLinkLabel: View Pitch
+    liveLinkLabel: Watch Pitch
 
 elsewhere: 
   - label: Speaking about animation with Vue.js at CampJS.
