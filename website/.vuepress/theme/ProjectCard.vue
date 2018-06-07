@@ -85,7 +85,8 @@ export default {
     }
   }
 
-  &:hover {
+  &:hover,
+  &:active {
     .image-container {
       transform: rotate(-12deg);
     }
