@@ -87,6 +87,7 @@ h1 {
 
 h2 {
   font-size: calc(var(--type-scale) * 3);
+  // word-break: break-all;
 }
 
 h3 {
@@ -165,6 +166,11 @@ a {
 }
 
 @media (max-width: 1024px) {
+  h2,
+  h3 {
+    font-size: xx-large;
+  }
+
   .container {
     width: 100%;
     padding-left: 1em;

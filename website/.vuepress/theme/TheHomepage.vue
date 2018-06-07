@@ -118,7 +118,7 @@ section:first-of-type {
 
 .extracurriculars {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(343px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   column-gap: 1em;
   margin-top: 0;
 

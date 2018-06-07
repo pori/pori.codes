@@ -15,4 +15,10 @@
 .avatar {
   width: 230px;
 }
+
+@media (max-width: 1024px) {
+  .hero {
+    height: 50vh;
+  }
+}
 </style>
