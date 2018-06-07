@@ -167,8 +167,8 @@ a {
 @media (max-width: 1024px) {
   .container {
     width: 100%;
-    // padding-left: 1em;
-    // padding-right: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
   }
 }
 </style>

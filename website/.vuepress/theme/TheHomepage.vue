@@ -86,6 +86,13 @@ export default {
 </script>
 
 <style lang="scss">
+h2 a {
+  &:nth-child(4):after,
+  &:nth-child(5):after {
+    content: " ";
+  }
+}
+
 section:first-of-type {
   margin-top: 6em;
 }
@@ -111,7 +118,7 @@ section:first-of-type {
 
 .extracurriculars {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(343px, 1fr));
   column-gap: 1em;
   margin-top: 0;
 
