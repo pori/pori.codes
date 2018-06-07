@@ -1,4 +1,6 @@
 ---
+home: true
+
 projects: 
   - imagePath: /leasecake.png
     title: Leasecake
