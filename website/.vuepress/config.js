@@ -1,6 +1,7 @@
 module.exports = {
   title: "Alex Hernandez | Product Designer & Front-End Developer",
-  description: "Something, something darkside.",
+  description:
+    "Product designer & front-end developer with experience in building startups.",
   head: [
     ["link", { type: "image/x-icon", rel: "icon", href: "/favicon.ico" }],
     [
