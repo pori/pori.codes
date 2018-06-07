@@ -14,6 +14,7 @@ module.exports = {
       }
     ]
   ],
+  ga: "UA-77174521-4",
   markdown: {
     anchor: {
       permalink: false
