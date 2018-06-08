@@ -3,7 +3,10 @@ module.exports = {
   description:
     "Product designer & front-end developer with experience in building startups.",
   head: [
-    ["meta", { type: "og:image", content: "https://pori.design/banner.png" }],
+    [
+      "meta",
+      { property: "og:image", content: "https://pori.design/banner.png" }
+    ],
     ["link", { type: "image/x-icon", rel: "icon", href: "/favicon.ico" }],
     [
       "link",
