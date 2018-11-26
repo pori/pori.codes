@@ -1,7 +1,7 @@
 ---
 home: true
 
-projects: 
+projects:
   - imagePath: /leasecake.png
     title: Leasecake
     subtitle: Research · Evanglizing · UX · UI · Front-End
@@ -10,25 +10,22 @@ projects:
     liveLink: https://leasecake.com
   - imagePath: /sensarie.png
     title: Sensarie
-    subtitle: Research · Front-End
     lead: Pronounced similarly to "sensory," it is a startup dedicated to helping you find the perfect neighborhood in Orlando, Florida.
     description: The team brought me on-board to help normalize their development processes and technical infrastructure. Aside from lending expertise, I built and refined their on-boarding experience.
     liveLink: https://sensarie.com
   - imagePath: /the-cleaning-studio.png
     title: The Cleaning Studio
-    subtitle: UX · UI · Front-End
     lead: On-demand home cleaning services in Brisbane, Australia.
-    description: I performed a UX/UI audit to determine what was already in place with their platform. along with evolving the visual language of the product, I used existing customer data to design their on-boarding experience. 
+    description: I performed a user experience audit to determine what was already in place with their platform. along with evolving the visual language of the product, I used existing customer data to design their on-boarding experience.
     liveLink: https://thecleaningstudio.com.au
   - imagePath: /rapido.png
     title: Rapido
-    subtitle: Research · UX · UI · Front-End
-    lead: Rapido was a mobile app for requesting services such as plumbing, electric, and HVAC. 
+    lead: Rapido was a mobile app for requesting services such as plumbing, electric, and HVAC.
     description: As a part of <a href="https://www.starterstudio.org/programs/accelerators/">Starter Studio Accelerator 1.0</a>, I spent my time conducting user interviews, designing, building, and marketing. I had the pleasure of being featured on <a href="https://www.bizjournals.com/orlando/news/2015/07/29/plumbers-electricians-etc-may-get-more-customers.html" target="_blank">a few</a> <a href="http://www.orlandosentinel.com/business/technology/tech_check/os-rapido-launches-mobile-application-20150730-post.html" target="_blank">different</a> <a href="http://www.mynews13.com/fl/orlando/news/2015/8/3/rapido_app_orlando.html" target="_target">news outlets</a>.
     liveLink: https://youtu.be/Ll6eDHCHSCw
     liveLinkLabel: Watch Pitch
 
-elsewhere: 
+elsewhere:
   - label: Speaking about animation with Vue.js at CampJS.
     link: http://ix.campjs.com/
   - label: Speaking about building design systems in Vue.js at Certified Fresh Events (date pending).
@@ -41,18 +38,18 @@ elsewhere:
     link: https://twitter.com/TheLarkInn/status/978777624062328832
   - label: Commenting about religion's relationship with the LGBTQI+ community on a public radio show.
     link: http://www.wmfe.org/intersection-the-state-of-faith/82140
-  - label: Introducing Orlando to the wonderful Vue.js framework. 
+  - label: Introducing Orlando to the wonderful Vue.js framework.
     link: https://www.meetup.com/Front-End-Orlando/events/246687100/
   - label: Trying (and failing) to solve JavaScript fatigue at BrisJS.
     link: https://brisjs.org/#talk-154
   - label: Rescuing puppies, using airplanes.
     link: https://youngpix.smugmug.com/Pets/May-2-2015/i-7fWKdqM
-  - label: Talking about how to control a helicopter engine with Arduino and Android. 
+  - label: Talking about how to control a helicopter engine with Arduino and Android.
     link: https://www.meetup.com/Orlando-Robotics/events/189631422/
   - label: Teaching girls in middle school to code an Instagram clone.
     link: https://github.com/tech-sassy-girlz/Piculiar
 
-extracurriculars: 
+extracurriculars:
   - imagePath: /orlando-jelly.png
     title: Orlando Jelly
     subtitle: Founder
@@ -63,18 +60,16 @@ extracurriculars:
   - imagePath: /vue-orlando.png
     title: Vue Orlando
     subtitle: Founder
-    lead: Orlando's very own platform for learning about Vue.js. 
+    lead: Orlando's very own platform for learning about Vue.js.
     description: Aside from evangilizing the tech community, this meetup is dedicated to promoting diversity. We're so passionate about it, we made the logo a rainbow!
     liveLink: https://meetup.com/VueOrlando
     liveLinkLabel: RSVP
 
 social:
   twitter: pori_alex
-  codepen: pori
   github: pori
-  dribbble: pori
 ---
 
-## Hola! My name is [Alex Hernandez](/about.html). I am a [product designer](/design.html) & [front-end developer](/dev.html) based in [~~Brisbane, Australia~~](/brisbane.html) [ ~~Orlando, FL~~](/orlando.html) [:woman_shrugging:](/next.html).
+## Hola! My name is [Alex Hernandez](/about.html). I am a software developer currently based in Orlando, Florida.
 
-### I love to design simple, delightful, and functional products in the digital space. Below are selected examples of my past work.
+### I love to build simple, delightful, and functional products in the digital space. Below are selected examples of my past work.

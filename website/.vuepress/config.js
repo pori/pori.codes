@@ -1,7 +1,6 @@
 module.exports = {
-  title: "Alex Hernandez | Product Designer & Front-End Developer",
-  description:
-    "Product designer & front-end developer with experience in building startups.",
+  title: "Alex Hernandez | Software Developer",
+  description: "I write software for the web and mobile phones.",
   head: [
     [
       "meta",
