@@ -1,6 +1,6 @@
 <template>
   <div class="hero">
-    <img class="avatar" src="/alex-hernandez.png" alt="Alex Hernandez">
+    <img class="avatar" src="/me.jpg" alt="Alex Hernandez">
   </div>
 </template>
 
@@ -14,6 +14,8 @@
 
 .avatar {
   width: 230px;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
 }
 
 @media (max-width: 1024px) {
