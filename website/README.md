@@ -4,7 +4,6 @@ home: true
 projects:
   - imagePath: /leasecake.png
     title: Leasecake
-    subtitle: Research · Evanglizing · UX · UI · Front-End
     lead: I helped launch a commericial leasing management platform as part of Techstars Global Startup Weekend 2017. <a href="https://www.techstars.com/content/accelerators/techstars-global-startup-weekend-announcing-winner-global-showcase/">We won the whole planet!</a>
     description: As is typical with startups, I wore a great deal of hats. Fortunately, I had the privilege of being able to lead the product side, talking to customers, testing interfaces, and building the real thing.
     liveLink: https://leasecake.com
@@ -28,8 +27,6 @@ projects:
 elsewhere:
   - label: Speaking about animation with Vue.js at CampJS.
     link: http://ix.campjs.com/
-  - label: Speaking about building design systems in Vue.js at Certified Fresh Events (date pending).
-    link: https://certifiedfreshevents.com/
   - label: Co-hosting The Official News podcast episode 92.
     link: https://news.vuejs.org/issues/92
   - label: Giving a prototype talk for the one I am giving at CampJS.
@@ -58,11 +55,11 @@ extracurriculars:
     liveLink: https://meetup.com/OrlandoJelly
     liveLinkLabel: RSVP
   - imagePath: /vue-orlando.png
-    title: Vue Orlando
+    title: Vue.js Orlando
     subtitle: Founder
     lead: Orlando's very own platform for learning about Vue.js.
     description: Aside from evangilizing the tech community, this meetup is dedicated to promoting diversity. We're so passionate about it, we made the logo a rainbow!
-    liveLink: https://meetup.com/VueOrlando
+    liveLink: https://meetup.com/VueJSOrlando
     liveLinkLabel: RSVP
 
 social:
@@ -72,4 +69,4 @@ social:
 
 ## Hola! My name is [Alex Hernandez](/about.html). I am a software developer currently based in Orlando, Florida.
 
-### I love to build simple, delightful, and functional products in the digital space. Below are selected examples of my past work.
+### I love to write simple, delightful, and functional software. Below are selected examples of my past work.
