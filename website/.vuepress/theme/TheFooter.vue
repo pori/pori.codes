@@ -40,6 +40,9 @@
       <p>There are lot of people I have met over the past year or so that have had a big impact on me. Whether we’ve had multiple outings, or even one brief conversation, I thank you for helping me find me.</p>
       <p>
         <a href="https://twitter.com/linsydeanna" target="_blank">Linsy Joyner</a>, 
+        <a href="https://twitter.com/AnnaGerber" target="_blank">Anna Gerber</a>, 
+        <a href="https://twitter.com/MichielBijl" target="_blank">Moiety</a>, 
+        <a href="https://twitter.com/sarah_j_smith" target="_blank">Sarah Smith</a>, 
         <a href="https://twitter.com/nellarro" target="_blank">Jenelle Pizarro</a>, 
         <a href="https://twitter.com/greggpollack" target="_blank">Gregg Pollack</a>,  
         <a href="https://twitter.com/AdamJahr" target="_blank">Adam Jahr</a>, 
