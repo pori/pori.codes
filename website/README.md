@@ -4,7 +4,7 @@ home: true
 projects:
   - imagePath: /leasecake.png
     title: Leasecake
-    lead: I helped launch a commericial leasing management platform as part of Techstars Global Startup Weekend 2017. <a href="https://www.techstars.com/content/accelerators/techstars-global-startup-weekend-announcing-winner-global-showcase/">We won the whole planet!</a>
+    lead: I helped launch a commercial leasing management platform as part of Techstars Global Startup Weekend 2017. <a href="https://www.techstars.com/content/accelerators/techstars-global-startup-weekend-announcing-winner-global-showcase/">We won the whole planet!</a>
     description: As is typical with startups, I wore a great deal of hats. Fortunately, I had the privilege of being able to lead the product side, talking to customers, testing interfaces, and building the real thing.
     liveLink: https://leasecake.com
   - imagePath: /sensarie.png
@@ -67,6 +67,6 @@ social:
   github: pori
 ---
 
-## Hola! My name is [Alex Hernandez](/about.html). I am a software developer currently based in Orlando, Florida.
+## Hola! My name is [Alex Hernandez](#). I am a software developer currently based in Orlando, Florida.
 
 ### I love to write simple, delightful, and functional software. Below are selected examples of my past work.
