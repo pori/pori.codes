@@ -84,25 +84,6 @@ export default {
       color: var(--black);
     }
   }
-
-  &:hover,
-  &:active {
-    .image-container {
-      transform: rotate(-12deg);
-    }
-
-    h3 {
-      transform: rotate(12deg);
-    }
-
-    .subtitle {
-      transform: rotate(-12deg);
-    }
-
-    .description {
-      transform: rotate(12deg);
-    }
-  }
 }
 
 @media (max-width: 1024px) {
