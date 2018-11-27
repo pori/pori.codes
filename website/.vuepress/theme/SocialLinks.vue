@@ -2,43 +2,33 @@
   <nav>
     <ul>
       <li>
-        <a 
-          v-if="twitter" 
-          :href="`https://twitter.com/${twitter}`" 
-          title="Twitter"
-          target="_blank"
-        >
-          <icon-twitter />
+        <a v-if="twitter" :href="`https://twitter.com/${twitter}`" title="Twitter" target="_blank">
+          <icon-twitter/>
         </a>
       </li>
       <li>
-        <a 
-          v-if="codepen" 
-          :href="`https://codepen.io/${codepen}`" 
-          title="CodePen"
-          target="_blank"
-        >
-          <icon-codepen />
+        <a v-if="codepen" :href="`https://codepen.io/${codepen}`" title="CodePen" target="_blank">
+          <icon-codepen/>
         </a>
       </li>
       <li>
-        <a 
-          v-if="github" 
-          :href="`https://github.com/${github}`" 
-          title="GitHub"
-          target="_blank"
-        >
-          <icon-github />
+        <a v-if="github" :href="`https://github.com/${github}`" title="GitHub" target="_blank">
+          <icon-github/>
         </a>
       </li>
       <li>
-        <a 
-          v-if="dribbble" 
-          :href="`https://dribbble.com/${dribbble}`" 
+        <a v-if="gitlab" :href="`https://gitlab.com/${gitlab}`" title="GitLab" target="_blank">
+          <icon-gitlab/>
+        </a>
+      </li>
+      <li>
+        <a
+          v-if="dribbble"
+          :href="`https://dribbble.com/${dribbble}`"
           title="Dribbble"
           target="_blank"
         >
-          <icon-dribbble />
+          <icon-dribbble/>
         </a>
       </li>
     </ul>
@@ -49,6 +39,7 @@
 import IconTwitter from "./icons/IconTwitter.vue";
 import IconCodepen from "./icons/IconCodepen.vue";
 import IconGithub from "./icons/IconGithub.vue";
+import IconGitlab from "./icons/IconGitLab.vue";
 import IconDribbble from "./icons/IconDribbble.vue";
 
 export default {
@@ -56,9 +47,10 @@ export default {
     IconTwitter,
     IconCodepen,
     IconGithub,
+    IconGitlab,
     IconDribbble
   },
-  props: ["twitter", "codepen", "github", "dribbble"]
+  props: ["twitter", "codepen", "github", "gitlab", "dribbble"]
 };
 </script>
 

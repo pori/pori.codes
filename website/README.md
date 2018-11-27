@@ -64,7 +64,7 @@ extracurriculars:
 
 social:
   twitter: pori_alex
-  github: pori
+  gitlab: pori
 ---
 
 ## Hola! My name is [Alex Hernandez](#). I am a software developer currently based in Orlando, Florida.

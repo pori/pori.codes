@@ -1,11 +1,11 @@
 <template>
   <div>
     <TheHero/>
-     
+
     <Content/>
 
     <section>
-      <project-card 
+      <project-card
         v-for="project in projects"
         :key="project.title"
         :imagePath="project.imagePath"
@@ -13,7 +13,7 @@
         :subtitle="project.subtitle"
         :lead="project.lead"
         :description="project.description"
-        :liveLink="project.liveLink" 
+        :liveLink="project.liveLink"
         :liveLinkLabel="project.liveLinkLabel"
       />
     </section>
@@ -29,7 +29,7 @@
     <h3 class="section-heading">Extracurriculars</h3>
 
     <section class="extracurriculars">
-      <project-card 
+      <project-card
         v-for="project in extracurriculars"
         :key="project.title"
         :imagePath="project.imagePath"
@@ -37,16 +37,17 @@
         :subtitle="project.subtitle"
         :lead="project.lead"
         :description="project.description"
-        :liveLink="project.liveLink" 
-        :liveLinkLabel="project.liveLinkLabel" 
+        :liveLink="project.liveLink"
+        :liveLinkLabel="project.liveLinkLabel"
       />
     </section>
-    
+
     <TheFooter/>
     <SocialLinks
       :twitter="social.twitter"
       :codepen="social.codepen"
       :github="social.github"
+      :gitlab="social.gitlab"
       :dribbble="social.dribbble"
     />
   </div>
