@@ -2,9 +2,9 @@
   <div>
     <template v-if="$route.path === '/'">
       <div class="container">
-        <TheHomepage/>
+        <Homepage/>
       </div>
-      <TheRainbow/>
+      <Rainbow/>
     </template>
     <div v-else class="container">
       <Content/>
@@ -17,13 +17,13 @@
 </template>
 
 <script>
-import TheHomepage from "./TheHomepage.vue";
-import TheRainbow from "./TheRainbow.vue";
+import Homepage from "./Homepage.vue";
+import Rainbow from "./Rainbow.vue";
 
 export default {
   components: {
-    TheHomepage,
-    TheRainbow
+    Homepage,
+    Rainbow
   }
 };
 </script>

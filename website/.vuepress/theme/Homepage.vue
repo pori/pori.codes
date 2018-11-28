@@ -1,6 +1,6 @@
 <template>
   <div>
-    <TheHero/>
+    <Hero/>
 
     <Content/>
 
@@ -44,7 +44,7 @@
       </div>
     </section>
 
-    <TheFooter/>
+    <Footer/>
     <SocialLinks
       :twitter="social.twitter"
       :codepen="social.codepen"
@@ -56,16 +56,16 @@
 </template>
 
 <script>
-import TheHero from "./TheHero.vue";
+import Hero from "./Hero.vue";
 import ProjectCard from "./ProjectCard.vue";
-import TheFooter from "./TheFooter.vue";
+import Footer from "./Footer.vue";
 import SocialLinks from "./SocialLinks.vue";
 
 export default {
   components: {
-    TheHero,
+    Hero,
     ProjectCard,
-    TheFooter,
+    Footer,
     SocialLinks
   },
   computed: {
