@@ -4,6 +4,24 @@
 
     <Content/>
 
+    <h3 class="section-heading">Community Engineering</h3>
+
+    <section class="extracurriculars">
+      <project-card
+        v-for="project in extracurriculars"
+        :key="project.title"
+        :imagePath="project.imagePath"
+        :title="project.title"
+        :subtitle="project.subtitle"
+        :lead="project.lead"
+        :description="project.description"
+        :liveLink="project.liveLink"
+        :liveLinkLabel="project.liveLinkLabel"
+      />
+    </section>
+
+    <h3 class="section-heading">Projects</h3>
+
     <section>
       <project-card
         v-for="project in projects"
@@ -24,22 +42,6 @@
       <div v-for="item in elsewhere">
         <a :href="item.link" target="_blank">{{ item.label }}</a>
       </div>
-    </section>
-
-    <h3 class="section-heading">Extracurriculars</h3>
-
-    <section class="extracurriculars">
-      <project-card
-        v-for="project in extracurriculars"
-        :key="project.title"
-        :imagePath="project.imagePath"
-        :title="project.title"
-        :subtitle="project.subtitle"
-        :lead="project.lead"
-        :description="project.description"
-        :liveLink="project.liveLink"
-        :liveLinkLabel="project.liveLinkLabel"
-      />
     </section>
 
     <TheFooter/>
@@ -94,8 +96,8 @@ h2 a {
   }
 }
 
-section:first-of-type {
-  margin-top: 6em;
+section {
+  margin-top: 2em;
 }
 
 .section-heading {
@@ -119,9 +121,8 @@ section:first-of-type {
 
 .extracurriculars {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   column-gap: 1em;
-  margin-top: 0;
 
   .project {
     .image-container {

@@ -5,22 +5,22 @@ projects:
   - imagePath: /leasecake.png
     title: Leasecake
     lead: I helped launch a commercial leasing management platform as part of Techstars Global Startup Weekend 2017. <a href="https://www.techstars.com/content/accelerators/techstars-global-startup-weekend-announcing-winner-global-showcase/">We won the whole planet!</a>
-    description: As is typical with startups, I wore a great deal of hats. Fortunately, I had the privilege of being able to lead the product side, talking to customers, testing interfaces, and building the real thing.
+    description: I built Leasecake in less than 72 hours on Vue.js and Laravel. The product you see now is the same one from that fateful weekend! It has since grown under my direction as a tech lead where I was responsible for specing requirements, recruiting and managing team members on our agile methodology, and setting up infrastructure on GCP.
     liveLink: https://leasecake.com
   - imagePath: /sensarie.png
     title: Sensarie
     lead: Pronounced similarly to "sensory," it is a startup dedicated to helping you find the perfect neighborhood in Orlando, Florida.
-    description: The team brought me on-board to help normalize their development processes and technical infrastructure. Aside from lending expertise, I built and refined their on-boarding experience.
+    description: The founding team hired me for consulting and development. I ported their existing Node.js codebase to GitHub, setup an architecture based on smaller, proprietary npm packages, and proceeded with implementing major features such on-boarding from hi-fi mockups.
     liveLink: https://sensarie.com
   - imagePath: /the-cleaning-studio.png
     title: The Cleaning Studio
     lead: On-demand home cleaning services in Brisbane, Australia.
-    description: I performed a user experience audit to determine what was already in place with their platform. along with evolving the visual language of the product, I used existing customer data to design their on-boarding experience.
+    description: I built their on-boarding experience in vanilla JavaScript and CSS, powered by a serverless backend hosted on AWS' Lambda and exposed via API Gateway. Additionally, I build their internal email notification infrastructure on SES.
     liveLink: https://thecleaningstudio.com.au
   - imagePath: /rapido.png
     title: Rapido
     lead: Rapido was a mobile app for requesting services such as plumbing, electric, and HVAC.
-    description: As a part of <a href="https://www.starterstudio.org/programs/accelerators/">Starter Studio Accelerator 1.0</a>, I spent my time conducting user interviews, designing, building, and marketing. I had the pleasure of being featured on <a href="https://www.bizjournals.com/orlando/news/2015/07/29/plumbers-electricians-etc-may-get-more-customers.html" target="_blank">a few</a> <a href="http://www.orlandosentinel.com/business/technology/tech_check/os-rapido-launches-mobile-application-20150730-post.html" target="_blank">different</a> <a href="http://www.mynews13.com/fl/orlando/news/2015/8/3/rapido_app_orlando.html" target="_target">news outlets</a>.
+    description: As a part of <a href="https://www.starterstudio.org/programs/accelerators/">Starter Studio Accelerator 1.0</a>, I spent my time conducting user interviews, designing, building, and marketing. I had the pleasure of being featured on <a href="https://www.bizjournals.com/orlando/news/2015/07/29/plumbers-electricians-etc-may-get-more-customers.html" target="_blank">a few</a> <a href="http://www.orlandosentinel.com/business/technology/tech_check/os-rapido-launches-mobile-application-20150730-post.html" target="_blank">different</a> <a href="http://www.mynews13.com/fl/orlando/news/2015/8/3/rapido_app_orlando.html" target="_target">news outlets</a>. The iOS was an early adopter of the Swift programming language. The apis where powered by Express.js and PostgreSQL.
     liveLink: https://youtu.be/Ll6eDHCHSCw
     liveLinkLabel: Watch Pitch
 
@@ -60,6 +60,13 @@ extracurriculars:
     lead: Orlando's very own platform for learning about Vue.js.
     description: Aside from evangilizing the tech community, this meetup is dedicated to promoting diversity. We're so passionate about it, we made the logo a rainbow!
     liveLink: https://meetup.com/VueJSOrlando
+    liveLinkLabel: RSVP
+  - imagePath: /rainbow.png
+    title: LGBT+ & Allies in Tech Orlando
+    subtitle: Founder
+    lead: A monthly gathering to promote diversity and inclusion.
+    description: We gather for drinks to discuss issues in the industry and meet like-minded people.
+    liveLink: https://www.meetup.com/Orlando-LGBT-Allies-in-Tech/
     liveLinkLabel: RSVP
 
 social:
