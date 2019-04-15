@@ -4,11 +4,9 @@
 
     <Content/>
 
-    <h3 class="section-heading">Community Engineering</h3>
-
-    <section class="extracurriculars">
+    <section>
       <project-card
-        v-for="project in extracurriculars"
+        v-for="project in projects"
         :key="project.title"
         :imagePath="project.imagePath"
         :title="project.title"
@@ -20,11 +18,11 @@
       />
     </section>
 
-    <h3 class="section-heading">Projects</h3>
+    <h3 class="section-heading">Community Engineering</h3>
 
-    <section>
+    <section class="extracurriculars">
       <project-card
-        v-for="project in projects"
+        v-for="project in extracurriculars"
         :key="project.title"
         :imagePath="project.imagePath"
         :title="project.title"
@@ -45,6 +43,7 @@
     </section>
 
     <Footer/>
+
     <SocialLinks
       :twitter="social.twitter"
       :codepen="social.codepen"
