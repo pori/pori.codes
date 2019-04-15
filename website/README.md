@@ -76,4 +76,4 @@ social:
 
 ## Hola! My name is [Alice Hernandez](#). I am a software engineer currently based in Orlando, Florida.
 
-### I love to write simple, delightful, and functional software. Below are selected examples of my past work.
+### I love to write useful software. Below are selected examples of my past work.
