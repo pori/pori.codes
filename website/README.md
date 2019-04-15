@@ -74,6 +74,6 @@ social:
   github: pori
 ---
 
-## Hola! My name is [Alex Hernandez](#). I am a software developer currently based in Orlando, Florida.
+## Hola! My name is [Alice Hernandez](#). I am a software engineer currently based in Orlando, Florida.
 
 ### I love to write simple, delightful, and functional software. Below are selected examples of my past work.
