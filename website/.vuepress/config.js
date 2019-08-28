@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Alex Hernandez | Software Developer",
-  description: "I write software for the web and mobile phones.",
+  title: "Alice Hernandez | Software Engineer",
+  description: "I write software for the web.",
   head: [
     [
       "meta",
