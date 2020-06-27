@@ -25,6 +25,14 @@ projects:
     liveLinkLabel: Watch Pitch
 
 elsewhere:
+  - label: Setting up an excessively cute workspace.
+    link: https://twitter.com/pori_alex/status/1264790388675538945
+  - label: Learning how to crochet amigurumi. 🧶
+    link: https://twitter.com/pori_alex/status/1261868138968145920
+  - label: Getting homesick and cooking Cuban food.
+    link: https://twitter.com/pori_alex/status/1249256643616862210
+  - label: Taking care of my puppy, Audrey. 🥰
+    link: https://twitter.com/pori_alex/status/1246956284068286464
   - label: Speaking about animation with Vue.js at CampJS.
     link: http://ix.campjs.com/
   - label: Co-hosting The Official News podcast episode 92.
@@ -64,16 +72,18 @@ extracurriculars:
   - imagePath: /rainbow.png
     title: LGBT+ & Allies in Tech Orlando
     subtitle: Founder
-    lead: A monthly gathering to promote diversity and inclusion.
+    lead: Formerly a monthly gathering to promote diversity and inclusion.
     description: We gather for drinks to discuss issues in the industry and meet like-minded people.
-    liveLink: https://www.meetup.com/Orlando-LGBT-Allies-in-Tech/
-    liveLinkLabel: RSVP
 
 social:
   twitter: pori_alex
   github: pori
 ---
 
-## Hola! My name is [Alice Hernandez](#). I am a software engineer currently based in Orlando, Florida.
+## Hola! My name is [Alice Hernandez](#). I am a software engineer splitting my time between 🐨 Brisbane, Australia and 🍊 Orlando, Florida.
 
-### I love to write useful software. Below are selected examples of my past work.
+### I love to write useful and reliable software and getting teams to produce results like a well-oiled machine. 🚂
+
+### Currently, I am working on [Console Connect](https://www.consoleconnect.com/), a Software-Designed Networking (SDN) platform.
+
+### Here are selected examples of my past work:
