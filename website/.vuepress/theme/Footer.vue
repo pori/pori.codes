@@ -50,8 +50,8 @@
       <p>
         Built on VuePress.
         <a href="https://gitlab.com/pori/pori.codes" target="_blank"
-          >Take a look at the code.</a
-        >
+          >Take a look at the code</a
+        >.
       </p>
       <p>
         Primary color chosen is
