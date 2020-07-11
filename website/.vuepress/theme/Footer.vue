@@ -96,9 +96,6 @@
         <a href="https://twitter.com/sarah_j_smith" target="_blank"
           >Sarah Smith</a
         >,
-        <a href="https://twitter.com/nellarro" target="_blank"
-          >Jenelle Pizarro</a
-        >,
         <a href="https://twitter.com/greggpollack" target="_blank"
           >Gregg Pollack</a
         >, <a href="https://twitter.com/AdamJahr" target="_blank">Adam Jahr</a>,
@@ -111,8 +108,6 @@
           >Miriam Suzanne</a
         >,
         <a href="https://twitter.com/sarah_edo" target="_blank">Sarah Drasner</a
-        >,
-        <a href="https://twitter.com/chrisvfritz" target="_blank">Chris Fritz</a
         >, &amp; many, many others.
       </p>
     </div>
