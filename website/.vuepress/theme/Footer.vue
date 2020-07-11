@@ -92,7 +92,7 @@
           >Linsy Joyner</a
         >,
         <a href="https://twitter.com/AnnaGerber" target="_blank">Anna Gerber</a
-        >, <a href="https://twitter.com/MichielBijl" target="_blank">Moiety</a>,
+        >, <a href="https://twitter.com/MichielBijl" target="_blank">Zoë Bijl</a>,
         <a href="https://twitter.com/sarah_j_smith" target="_blank"
           >Sarah Smith</a
         >,
