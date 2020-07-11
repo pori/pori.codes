@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Alice Hernandez | Software Engineer",
+  title: "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ | Software Engineer",
   description: "I write software for the web.",
   head: [
     [
