@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Alice Hernandez | Software Engineer",
+  title: "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ | Software Engineer",
   description: "I write software for the web.",
   head: [
     [
       "meta",
-      { property: "og:image", content: "https://pori.design/banner.png" }
+      { property: "og:image", content: "https://pori.design/banner.png" },
     ],
     ["link", { type: "image/x-icon", rel: "icon", href: "/favicon.ico" }],
     [
@@ -13,14 +13,14 @@ module.exports = {
         type: "text/css",
         rel: "stylesheet",
         href:
-          "https://fonts.googleapis.com/css?family=Libre+Baskerville|Libre+Franklin"
-      }
-    ]
+          "https://fonts.googleapis.com/css?family=Libre+Baskerville|Libre+Franklin",
+      },
+    ],
   ],
   ga: "UA-77174521-4",
   markdown: {
     anchor: {
-      permalink: false
-    }
-  }
+      permalink: false,
+    },
+  },
 };
