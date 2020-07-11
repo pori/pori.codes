@@ -33,9 +33,10 @@ export default {
   /* Color */
   --primary: #ff91af;
   --secondary: #8bd5e9;
-  --black: #333333;
-  --grey: #bdbdbd;
+  --black: #804957;
+  --grey: #806F73;
   --muted: #e0e0e0;
+  --bg: #FFDEE7;
 
   /* Type */
   --heading-typeface: "Libre Baskerville", serif;
@@ -59,7 +60,7 @@ body {
 }
 
 body {
-  background-color: white;
+  background-color: var(--bg);
   font-family: var(--heading-typeface);
   font-weight: 400;
   line-height: 1.45;
@@ -69,6 +70,7 @@ body {
 p {
   font-family: var(--body-typeface);
   margin-bottom: 1.3em;
+  color: var(--black);
 }
 
 h1,
@@ -78,6 +80,7 @@ h4 {
   margin: 1.414em 0 0.5em;
   font-weight: bold;
   line-height: 1.2;
+  color: var(--black);
 }
 
 h1 {
